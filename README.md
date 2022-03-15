@@ -1,3 +1,4 @@
+LOCAL
 # Merge-Conflits
 
 quelques lignes de texte
